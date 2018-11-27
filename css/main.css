@@ -107,6 +107,12 @@ textarea {
    *, *:before, *:after {
      box-sizing: inherit;
    }
+   html {
+       background-color: blue;
+   }
+   html img {
+       max-width: 100%;
+   }
 
 
 
